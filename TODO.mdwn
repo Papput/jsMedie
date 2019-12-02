@@ -1,0 +1,30 @@
+**HangMan**
+
+*Get random word
+    *Display length of word as _ _ _
+
+*Inputfield for guess
+    *Max one char
+    *check make sure its only letters
+
+    *Right Answer 
+        * Fill in rihght letter in _ _ _
+
+    *Wrong answer
+        * increment wrong guess
+        * Add letter to wrong letter list
+        * Draw next part of hangman
+
+* output for wrong guesses list
+
+* Graphic for each hangman
+    * animate graphic on wrong answer
+
+
+* Win
+    * fill _ _ _ before hangeman is fully drawn
+
+* Lose
+    * Hangman is fully drawn before _ _ _ is filled
+
+
